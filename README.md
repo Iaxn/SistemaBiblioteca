@@ -52,5 +52,5 @@ Escolha uma opção:
 ## 📄 Licença
 1. Este projeto, não possui licença
 
-##🤝 Contribuições
+## 🤝 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
